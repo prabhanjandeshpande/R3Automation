@@ -23,6 +23,6 @@ Clone the repo from your fork on your local machine, import as 'Existing Maven P
 
 ## Running the tests
 
-By default TestNG tests can be run from TestNGSuiteFile.xml file (right click -> Run As -> TestNG Suite)  
+By default TestNG tests can be run from TestNGSuiteFile.xml file (right click -> Run As -> TestNG Suite).  
 Use command 'mvn clean install' to run from terminal / git bash
 
